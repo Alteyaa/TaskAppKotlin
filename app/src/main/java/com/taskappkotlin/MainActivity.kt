@@ -5,7 +5,6 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
 
-    val list: kotlin.collections.MutableList<String> = java.util.ArrayList()
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
